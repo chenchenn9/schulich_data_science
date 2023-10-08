@@ -1,2 +1,2 @@
-# schulich_data_science
-MBAN_6110
+#Data analysis
+Hi, I'm chenchen. I am a young and passionate junior data analyst who 
